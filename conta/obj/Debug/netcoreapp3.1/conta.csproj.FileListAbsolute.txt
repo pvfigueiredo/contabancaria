@@ -1,0 +1,11 @@
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta.deps.json
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta.runtimeconfig.json
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta.runtimeconfig.dev.json
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta.dll
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/bin/Debug/netcoreapp3.1/conta.pdb
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/obj/Debug/netcoreapp3.1/conta.csprojAssemblyReference.cache
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/obj/Debug/netcoreapp3.1/conta.AssemblyInfoInputs.cache
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/obj/Debug/netcoreapp3.1/conta.AssemblyInfo.cs
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/obj/Debug/netcoreapp3.1/conta.dll
+/home/paulo/Documents/Curso DotNet/contabancaria/conta/obj/Debug/netcoreapp3.1/conta.pdb
